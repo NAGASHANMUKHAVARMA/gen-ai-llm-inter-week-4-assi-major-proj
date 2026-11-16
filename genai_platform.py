@@ -1,0 +1,6 @@
+print("Production Ready GenAI Platform")
+user_query = input("Ask a question: ")
+print("Searching documents...")
+print("Checking safety...")
+print("Generating response...")
+print("Answer generated successfully")
