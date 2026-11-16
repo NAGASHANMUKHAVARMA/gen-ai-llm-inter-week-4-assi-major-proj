@@ -1,0 +1,9 @@
+Token Usage Monitoring
+
+Track:
+- Input Tokens
+- Output Tokens
+- Cost Per Request
+
+Purpose:
+Optimize API costs.
