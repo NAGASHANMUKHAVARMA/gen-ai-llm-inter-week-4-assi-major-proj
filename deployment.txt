@@ -1,0 +1,10 @@
+Deployment
+
+Framework:
+FastAPI
+
+Hosting:
+Vercel / Railway / AWS
+
+Feature:
+Streaming Responses
