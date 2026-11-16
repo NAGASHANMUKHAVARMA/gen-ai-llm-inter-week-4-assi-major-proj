@@ -1,0 +1,13 @@
+API Documentation
+
+Endpoint:
+/chat
+
+Method:
+POST
+
+Input:
+User Question
+
+Output:
+AI Generated Response
