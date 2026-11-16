@@ -1,0 +1,7 @@
+Hallucination Detection
+
+Method:
+Cross-check AI responses with source documents.
+
+Result:
+Only verified answers are returned.
